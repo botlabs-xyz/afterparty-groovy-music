@@ -1,13 +1,15 @@
-theme: jekyll-theme-midnight
-title: "Afterparty Groovy Music"
+﻿title: "Afterparty Groovy Music"
 description: "High quality Discord music playback with queue tools, filters, and premium listening features."
 show_downloads: false
 theme_color: "#66085B"
 footer_brand: "Afterparty Bot Labs"
 footer_link: "https://afterpartylabs.xyz"
-icon: "/assets/images/bot-icon.ico"
-favicon: "/favicon.ico"
+icon: "/assets/css/img/favicon.ico"
+favicon: "/assets/css/img/favicon.ico"
 cta_invite_url: "https://discord.com/oauth2/authorize?client_id=1086511506922946650&permissions=37079041&integration_type=0&scope=applications.commands+bot"
 cta_support_url: "https://discord.gg/BusuZp2G8w"
 cta_website_url: "https://afterpartylabs.xyz"
-cta_github_url: "https://github.com/afteryparty/afterparty-groovy-music"
+topgg_url: "https://top.gg/bot/1086511506922946650/vote"
+url: "https://botlabs-xyz.github.io"
+baseurl: "/afterparty-groovy-music"
+markdown: kramdown
