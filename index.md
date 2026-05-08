@@ -6,33 +6,37 @@ description: High quality Discord music playback with queue tools, filters, and 
 
 ## Overview
 
-Afterparty Groovy Music gives Discord communities reliable music playback, smooth queue control, and quick moderation-safe setup for voice channels.
+Afterparty Groovy Music is the music-first Discord bot docs hub for reliable playback, smooth queue control, and fast setup for community voice channels.
 
 <div class="doc-grid">
   <div class="doc-card">
     <h3>Start Here</h3>
-    <p>Invite the bot, verify voice permissions, and run a first playback test in under 10 minutes.</p>
+    <p>Get the bot into your server, verify voice permissions, and run a quick first-play test.</p>
     <p><a href="{{ '/setup/' | relative_url }}">Open Setup Guide</a></p>
   </div>
   <div class="doc-card">
     <h3>Commands</h3>
-    <p>Find music, queue, playback, filter, and utility commands with clear examples.</p>
+    <p>See all playback, queue, filter, and utility commands with clear usage examples.</p>
     <p><a href="{{ '/commands/' | relative_url }}">Open Commands</a></p>
   </div>
   <div class="doc-card">
     <h3>Troubleshooting</h3>
-    <p>Fix common join, playback, and permission issues with beginner-friendly steps.</p>
+    <p>Fix the most common voice, playback, and permission issues with simple steps.</p>
     <p><a href="{{ '/troubleshooting/' | relative_url }}">Open Troubleshooting</a></p>
   </div>
 </div>
 
 ## Core Features
 
-- High quality playback for active Discord communities
-- Queue controls for skip, move, shuffle, clear, and loop workflows
-- Search and direct URL playback support
-- Filters and equalizer presets for different listening styles
-- Utility commands for invite, support, and quick help
+<div class="doc-card">
+  <ul class="feature-list">
+    <li>High quality music playback for active Discord communities</li>
+    <li>Queue tools for skip, move, shuffle, clear, and loop control</li>
+    <li>Search and direct URL playback support</li>
+    <li>Audio filters and equalizer presets for different listening styles</li>
+    <li>Utility shortcuts for invite, support, and help commands</li>
+  </ul>
+</div>
 
 ## Project Links
 
@@ -45,6 +49,10 @@ Afterparty Groovy Music gives Discord communities reliable music playback, smoot
 
 ## Next Steps
 
-- Complete the [Setup Guide]({{ '/setup/' | relative_url }}) to confirm voice and text permissions.
-- Review the [Commands]({{ '/commands/' | relative_url }}) page for queue and playback controls.
-- If something fails, use [Troubleshooting]({{ '/troubleshooting/' | relative_url }}) before opening a support request.
+<div class="doc-card">
+  <ul class="next-steps">
+    <li>Complete the <a href="{{ '/setup/' | relative_url }}">Setup</a> guide to confirm voice and text permissions.</li>
+    <li>Review the <a href="{{ '/commands/' | relative_url }}">Commands</a> page for queue and playback control coverage.</li>
+    <li>If playback fails, follow the <a href="{{ '/troubleshooting/' | relative_url }}">Troubleshooting</a> page before opening support.</li>
+  </ul>
+</div>
