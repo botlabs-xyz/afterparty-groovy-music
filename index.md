@@ -52,7 +52,7 @@ Afterparty Groovy Music is the music-first Discord bot docs hub for reliable pla
 <div class="doc-card">
   <ul class="next-steps">
     <li>Complete the <a href="{{ '/setup/' | relative_url }}">Setup</a> guide to confirm voice and text permissions.</li>
-    <li>Review the <a href="{{ '/commands' | relative_url }}">Commands</a> page for queue and playback control coverage.</li>
+    <li>Review the <a href="{{ '/commands/' | relative_url }}">Commands</a> page for queue and playback control coverage.</li>
     <li>If playback fails, follow the <a href="{{ '/troubleshooting/' | relative_url }}">Troubleshooting</a> page before opening support.</li>
   </ul>
 </div>
