@@ -1,4 +1,4 @@
-﻿---
+---
 layout: default
 title: Setup
 description: First-time setup for Afterparty Groovy Music.
@@ -11,11 +11,11 @@ permalink: /setup/
 
 Use the official invite:
 
-[Invite Afterparty Groovy Music](https://discord.com/oauth2/authorize?client_id=1086511506922946650&permissions=37079041&integration_type=0&scope=applications.commands+bot)
+[Invite Afterparty Groovy Music]({{ site.cta_invite_url }})
 
 ### 2. Check Voice Permissions
 
-Open **Server Settings → Roles → Afterparty Groovy Music** and confirm:
+Open **Server Settings > Roles > Afterparty Groovy Music** and confirm:
 
 - View Channels
 - Connect
@@ -29,14 +29,19 @@ Join the target voice channel where playback should happen.
 
 ### 4. Test Playback
 
-Run `/play` with a song query.
+Run `/play` with a song query or direct link from YouTube, Spotify, Apple Music, SoundCloud, or another supported source.
 
 ### 5. Validate Queue Controls
 
 Test `/queue`, `/skip`, `/pause`, `/resume`, and `/stop`.
+
+### 6. Optional Music Channel
+
+Use `/setup-channel set` or `/setdefaultchannel` if you want a dedicated music request/update channel. Setup channels are free.
 
 ## Setup Checklist
 
 - Bot can connect/speak in target voice channels
 - Slash commands visible in test channel
 - Playback and queue commands respond correctly
+- Optional setup/default music channel responds if configured
