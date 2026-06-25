@@ -1,3 +1,5 @@
+---
+
 layout: default
 title: Commands
 description: Slash command reference for Afterparty Groovy Music.
