@@ -1,10 +1,3 @@
----
-layout: default
-title: Repository README
-description: Repository overview for the Afterparty Groovy Music documentation site.
-permalink: /readme/
----
-
 # Afterparty Groovy Music
 
 Free-first music streaming for Discord.
