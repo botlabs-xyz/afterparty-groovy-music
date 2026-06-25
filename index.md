@@ -1,12 +1,12 @@
 ---
 layout: default
 title: Afterparty Groovy Music
-description: High quality Discord music playback with queue tools, filters, and premium listening features.
+description: Free-first Discord music playback with queue tools, filters, playlists, and supporter recognition.
 ---
 
 ## Overview
 
-Afterparty Groovy Music is the music-first Discord bot docs hub for reliable playback, smooth queue control, and fast setup for community voice channels.
+Afterparty Groovy Music is a free-first Discord music bot for reliable playback, smooth queue control, and fast setup for community voice channels.
 
 <div class="doc-grid">
   <div class="doc-card">
@@ -16,7 +16,7 @@ Afterparty Groovy Music is the music-first Discord bot docs hub for reliable pla
   </div>
   <div class="doc-card">
     <h3>Commands</h3>
-    <p>See all playback, queue, filter, and utility commands with clear usage examples.</p>
+    <p>See playback, Spotify, Apple Music, SoundCloud, queue, filter, playlist, and utility commands with clear usage examples.</p>
     <p><a href="{{ '/commands/' | relative_url }}">Open Commands</a></p>
   </div>
   <div class="doc-card">
@@ -32,8 +32,9 @@ Afterparty Groovy Music is the music-first Discord bot docs hub for reliable pla
   <ul class="feature-list">
     <li>High quality music playback for active Discord communities</li>
     <li>Queue tools for skip, move, shuffle, clear, and loop control</li>
-    <li>Search and direct URL playback support</li>
-    <li>Audio filters and equalizer presets for different listening styles</li>
+    <li>Search and direct URL playback support for YouTube, Spotify, Apple Music, SoundCloud, and more</li>
+    <li>Audio filters, volume, seek, replay, setup channels, autoplay, and 24/7 mode are free for everyone</li>
+    <li>Groovy+ is an optional supporter membership for hosting, uptime, development, and community recognition</li>
     <li>Utility shortcuts for invite, support, and help commands</li>
   </ul>
 </div>
@@ -42,7 +43,7 @@ Afterparty Groovy Music is the music-first Discord bot docs hub for reliable pla
 
 <div class="cta">
   <a class="btn primary" href="{{ site.cta_invite_url }}" target="_blank" rel="noopener noreferrer">Invite Afterparty Groovy Music</a>
-  <a class="btn secondary" href="https://top.gg/bot/1086511506922946650/vote" target="_blank" rel="noopener noreferrer">Vote on Top.gg</a>
+  <a class="btn secondary" href="{{ site.topgg_url }}" target="_blank" rel="noopener noreferrer">Vote on Top.gg</a>
   <a class="btn secondary" href="{{ site.cta_support_url }}" target="_blank" rel="noopener noreferrer">Support Server</a>
   <a class="btn secondary" href="{{ site.cta_website_url }}" target="_blank" rel="noopener noreferrer">Afterparty Bot Labs</a>
 </div>
