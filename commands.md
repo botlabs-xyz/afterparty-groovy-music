@@ -1,3 +1,11 @@
+---
+
+layout: default
+title: Commands
+description: Slash command reference for Afterparty Groovy Music.
+permalink: /commands/
+---------------------
+
 ## Commands
 
 Afterparty Groovy Music is **free-first**. Normal music features are free to use. **Groovy+** is an optional supporter membership for hosting, uptime, development, and community recognition.
@@ -14,7 +22,6 @@ Afterparty Groovy Music is **free-first**. Normal music features are free to use
 | `/previous`             | Go back to the previous track.                                                                                                   | Send Messages, Use Application Commands          | `/previous`                         |
 | `/replay`               | Restart the current song from the beginning.                                                                                     | Send Messages, Use Application Commands          | `/replay`                           |
 | `/forward`              | Skip forward in the current track.                                                                                               | Send Messages, Use Application Commands          | `/forward time:30s`                 |
-| `/seek`                 | Jump to a time in the current track.                                                                                             | Send Messages, Use Application Commands          | `/seek time:01:30`                  |
 | `/stop`                 | Stop playback and end the active session.                                                                                        | Send Messages, Use Application Commands          | `/stop`                             |
 | `/join`                 | Have the bot join your voice channel.                                                                                            | Connect, View Channels, Use Application Commands | `/join`                             |
 | `/disconnect`           | Have the bot leave voice chat.                                                                                                   | Connect, View Channels, Use Application Commands | `/disconnect`                       |
@@ -27,6 +34,7 @@ Afterparty Groovy Music is **free-first**. Normal music features are free to use
 | `/loop`                 | Set repeat mode for track or queue.                                                                                              | Send Messages, Use Application Commands          | `/loop mode:queue`                  |
 | `/clear`                | Clear upcoming songs in queue.                                                                                                   | Send Messages, Use Application Commands          | `/clear`                            |
 | `/volume`               | Change playback volume.                                                                                                          | Send Messages, Use Application Commands          | `/volume level:50`                  |
+| `/seek`                 | Jump to a time in the current track.                                                                                             | Send Messages, Use Application Commands          | `/seek time:01:30`                  |
 | `/filters`              | Apply audio filter presets.                                                                                                      | Send Messages, Use Application Commands          | `/filters preset:bassboost`         |
 | `/filter`               | Alias for `/filters`.                                                                                                            | Send Messages, Use Application Commands          | `/filter preset:bassboost`          |
 | `/equalizers`           | Apply equalizer profile settings.                                                                                                | Send Messages, Use Application Commands          | `/equalizers preset:rock`           |
