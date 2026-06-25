@@ -1,5 +1,5 @@
 ﻿title: "Afterparty Groovy Music"
-description: "High quality Discord music playback with queue tools, filters, and premium listening features."
+description: "Free-first Discord music playback with queue tools, filters, and supporter-powered development."
 show_downloads: false
 theme_color: "#66085B"
 footer_brand: "Afterparty Bot Labs"
@@ -11,5 +11,4 @@ cta_support_url: "https://discord.gg/BusuZp2G8w"
 cta_website_url: "https://afterpartylabs.xyz"
 topgg_url: "https://top.gg/bot/1086511506922946650/vote"
 url: "https://botlabs-xyz.github.io"
-baseurl: "/afterparty-groovy-music"
 markdown: kramdown
