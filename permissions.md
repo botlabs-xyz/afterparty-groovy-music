@@ -1,4 +1,4 @@
-﻿---
+---
 layout: default
 title: Permissions
 description: Required permissions for Afterparty Groovy Music.
@@ -21,7 +21,7 @@ Required for audio output.
 
 ### Send Messages
 
-Required for command responses and status updates.
+Required for command responses, setup channels, and status updates.
 
 ### Embed Links
 
@@ -35,9 +35,13 @@ Helps with command context in active channels.
 
 Required for `/` command usage.
 
+### Manage Server
+
+Required only for server configuration tools such as `/setup-channel`, `/setdefaultchannel`, `/removedefaultchannel`, `/lock-buttons`, and `/lockbuttons`.
+
 ## If Playback Fails
 
 Check both:
 
-1. **Server Settings → Roles → Afterparty Groovy Music**
+1. **Server Settings > Roles > Afterparty Groovy Music**
 2. Voice/text channel-level permission overrides
