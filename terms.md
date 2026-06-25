@@ -1,4 +1,4 @@
-﻿---
+---
 layout: default
 title: Terms
 description: Terms of use for Afterparty Groovy Music.
@@ -18,6 +18,7 @@ By using Afterparty Groovy Music, you agree to responsible usage and compliance 
 
 - Features may change over time.
 - Availability depends on Discord platform behavior and permissions.
+- Groovy+ is an optional supporter membership for hosting, uptime, development, and community recognition. It does not gate normal bot features.
 
 ### Access controls
 
