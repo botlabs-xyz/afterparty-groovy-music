@@ -1,11 +1,3 @@
----
-
-layout: default
-title: Commands
-description: Slash command reference for Afterparty Groovy Music.
-permalink: /commands/
----------------------
-
 ## Commands
 
 Afterparty Groovy Music is **free-first**. Normal music features are free to use. **Groovy+** is an optional supporter membership for hosting, uptime, development, and community recognition.
